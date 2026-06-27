@@ -76,7 +76,19 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 2**
+
+### משתמש 45,000
+https://example.com/product/mshtmsh-45000-p7e0yo
+- Price: 100.00 ILS
+- Availability: In stock
+- Description: 500 יהלומים 5 סקינים סופר טעינה 3 סקינים לג'נדרי כל הדמויות
+
+### משתמש 82,000 
+https://example.com/product/mshtmsh-82000-keuuet
+- Price: 200.00 ILS
+- Availability: In stock
+- Description: קולט המכני קרואו המכני
 
 ---
 

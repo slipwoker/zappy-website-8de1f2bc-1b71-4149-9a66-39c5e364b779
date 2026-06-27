@@ -4,6 +4,28 @@
     <title>מכירת משתמשים בברואל סטארס</title>
     <link>https://example.com</link>
     <description>Product feed for מכירת משתמשים בברואל סטארס</description>
-    <lastBuildDate>Sat, 27 Jun 2026 08:24:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:36:34 GMT</lastBuildDate>
+    <item>
+      <g:id>bb9a3825-f5d7-4978-a2fc-6cc3364d7c20</g:id>
+      <g:title>משתמש 45,000</g:title>
+      <g:description>500 יהלומים 5 סקינים סופר טעינה 3 סקינים לג&apos;נדרי כל הדמויות</g:description>
+      <g:link>https://example.com/product/mshtmsh-45000-p7e0yo</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>100.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>מכירת משתמשים בברואל סטארס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c27c96ed-a24a-4010-86d6-a56ab6f2a860</g:id>
+      <g:title>משתמש 82,000 </g:title>
+      <g:description>קולט המכני קרואו המכני</g:description>
+      <g:link>https://example.com/product/mshtmsh-82000-keuuet</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>200.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>מכירת משתמשים בברואל סטארס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

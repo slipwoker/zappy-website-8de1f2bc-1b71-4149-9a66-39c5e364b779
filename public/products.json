@@ -1,8 +1,49 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-27T08:24:36.594Z",
+  "generated_at": "2026-06-27T08:36:34.235Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 2,
+  "products": [
+    {
+      "id": "bb9a3825-f5d7-4978-a2fc-6cc3364d7c20",
+      "slug": "mshtmsh-45000-p7e0yo",
+      "name": "משתמש 45,000",
+      "name_translations": {},
+      "description": "",
+      "short_description": "500 יהלומים 5 סקינים סופר טעינה 3 סקינים לג'נדרי \nכל הדמויות",
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 100,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mshtmsh-45000-p7e0yo",
+      "categories": [],
+      "updated_at": "2026-06-27T08:33:58.394Z"
+    },
+    {
+      "id": "c27c96ed-a24a-4010-86d6-a56ab6f2a860",
+      "slug": "mshtmsh-82000-keuuet",
+      "name": "משתמש 82,000 ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קולט המכני קרואו המכני",
+      "sku": null,
+      "brand": null,
+      "price": 200,
+      "base_price": 200,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mshtmsh-82000-keuuet",
+      "categories": [],
+      "updated_at": "2026-06-27T08:28:44.265Z"
+    }
+  ]
 }
