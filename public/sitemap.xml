@@ -97,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://example.com/product/prnd-m82000-51er6v</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://example.com/product/mshtmsh-45000-p7e0yo</loc>
     <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>

@@ -4,7 +4,18 @@
     <title>מכירת משתמשים בברואל סטארס</title>
     <link>https://example.com</link>
     <description>Product feed for מכירת משתמשים בברואל סטארס</description>
-    <lastBuildDate>Sat, 27 Jun 2026 08:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:53:07 GMT</lastBuildDate>
+    <item>
+      <g:id>6413734f-177a-43da-a069-17cf5e8bfb4d</g:id>
+      <g:title>פרנד מ82,000</g:title>
+      <g:description>פרנד מ82,000</g:description>
+      <g:link>https://example.com/product/prnd-m82000-51er6v</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>10.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>מכירת משתמשים בברואל סטארס</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>bb9a3825-f5d7-4978-a2fc-6cc3364d7c20</g:id>
       <g:title>משתמש 45,000</g:title>
