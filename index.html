@@ -363,7 +363,7 @@
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "8de1f2bc-1b71-4149-9a66-39c5e364b779";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "8de1f2bc-1b71-4149-9a66-39c5e364b779";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -373,7 +373,7 @@
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
-  <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
+  <button class="phone-header-btn" data-phone="0508107534" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -857,7 +857,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '0508107534';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -1201,12 +1201,12 @@
           
           <div class="index-testimonials-section__avatar-ring index-testimonials-section__avatar-ring--accent"></div>
         </div>
-        <blockquote class="index-testimonials-section__quote" style="">
+        <blockquote class="index-testimonials-section__quote" >
           "בתור גיימרית אני חייבת פלטפורמה אמינה למכירת משתמשים בברואל סטארס. האתר הזה בנוי לשחקנים אמיתיים — הממשק נקי, העסקאות מהירות, והתמיכה תמיד זמינה. פשוט אין על זה."
         </blockquote>
         <div class="index-testimonials-section__identity">
           <span class="index-testimonials-section__name">מaya לוי</span>
-          <span class="index-testimonials-section__role" style="">גיימרית,&nbsp;</span>
+          <span class="index-testimonials-section__role" >גיימרית,&nbsp;</span>
         </div>
         <div class="index-testimonials-section__stars" aria-label="5 out of 5 stars">
           <svg data-element-type="icon" data-icon-type="svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
@@ -1342,7 +1342,7 @@
     <div class="footer-grid">
       <!-- Company Info -->
       <div class="footer-col footer-company-col">
-        <img src="/assets/gaming-e-commerce-logo.webp" alt="מכירת משתמשים בברואל סטארס" class="logo" data-element-type="image" data-element-id="img-1782549243941-of1614hp2" data-zappy-footer-image="true" style="">
+        <img src="/assets/gaming-e-commerce-logo.webp" alt="מכירת משתמשים בברואל סטארס" class="logo" data-element-type="image" data-element-id="img-1782549243941-of1614hp2" data-zappy-footer-image="true" >
         <p class="footer-tagline">הפלטפורמה המאובטחת ביותר למסחר בחשבונות ברואל סטארס – קהילה אמינה, תהליך שקוף, ועסקאות מהירות.</p>
       </div>
 
@@ -1360,29 +1360,27 @@
       <!-- Contact Info -->
       <div class="footer-col footer-contact-col">
         <h4>צור קשר</h4>
-        <ul class="footer-contact" style=""><li>
+        <ul class="footer-contact" ><li>
             <span class="contact-icon"><i class="fas fa-envelope" data-element-type="icon" data-element-id="icon-1782549243930-vdod4yr6o" data-icon-type="fontawesome" style="cursor: pointer;"></i></span>
-            <span class="contact-text"><a href="mailto:[business_email]">[business_email]</a></span>
+            <span class="contact-text"><a href="mailto:omerzurshavit@gmail.com">omerzurshavit@gmail.com</a></span>
           </li><li>
             <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1782549243930-jxv8g3xpr" data-icon-type="fontawesome" style="font-size: 15px !important; color: rgb(255, 184, 0); cursor: pointer;"></i></span>
-            <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
+            <span class="contact-text"><a href="tel:0508107534">0508107534</a></span>
           </li><li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt" style="cursor: pointer;"></i></span>
-            <span class="contact-text">[business_address]</span></a></li></ul>
+            <span class="contact-text">ישראל</span></a></li></ul>
       </div>
 
       <!-- Business Hours -->
       <div class="footer-col footer-hours-col">
         <h4>שעות פעילות</h4>
-        <ul class="footer-hours">
-          <li><a href="/"><span class="hours-day">ימים א'–ה'</span> <span class="hours-time">09:00–18:00</span></a></li>
-          <li><a href="/"><span class="hours-day">יום ו'</span> <span class="hours-time">09:00–13:00</span></a></li>
-          <li><a href="/" style=""><span class="hours-day">שבת:20:30</span></a></li>
-        </ul>
+        <ul class="footer-hours"><li><a href="/"><span class="hours-day">יום א’</span> <span class="hours-time">סגור</span></a></li>
+<li><a href="/"><span class="hours-day">ימים ב’–ו’</span> <span class="hours-time">09:00–17:00</span></a></li>
+<li><a href="/"><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></a></li></ul>
       </div>
 
       <!-- Social Media -->
       <div class="footer-col footer-social-col">
-        <h4 style="">עקבו אחרינו</h4>
+        <h4 >עקבו אחרינו</h4>
         <div class="footer-social">
           <a href="#" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f" data-element-type="icon" data-element-id="icon-1782549243930-d7aksaeh6" data-icon-type="fontawesome"></i></a>
           <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1782549243931-ixs1fh5j7" data-icon-type="fontawesome"></i></a>
@@ -1411,7 +1409,7 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/0508107534" class="whatsapp-float" aria-label="WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
   
