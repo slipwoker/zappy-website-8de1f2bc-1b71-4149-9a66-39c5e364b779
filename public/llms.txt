@@ -1,0 +1,105 @@
+# מכירת משתמשים בברואל סטארס — Generative Engine Optimization Map
+
+> An online store dedicated to Brawl Stars — the popular mobile battle game by Supercell. The platform focuses on buying and selling in-game related items, accounts, or merchandise, and includes a user-to-user marketplace where players can list and purchase items from each other. The brand likely appeals to a young, gaming-savvy audience who are passionate about Brawl Stars characters, skins, and game content.
+
+---
+
+## Pages
+
+### בית
+https://-8de1f2bc.zappy5.app
+קנו ומכרו אקאונטים, סקינים ופריטים נדירים בברואל סטארס בזירה המהירה והבטוחה בישראל. הצטרפו לשוק המשתמשים החכם ותתחילו לסחור כמו מקצוענים עוד היום!
+
+### אמון ותהליך
+https://-8de1f2bc.zappy5.app/trust-process
+גלו איך אנחנו הופכים כל עסקה לבטוחה ושקופה: תהליך אימות קפדני, הגנה על הקונים והמוכרים, וצעדים פשוטים לסחר חכם. התחילו לסחור בביטחון מלא עכשיו!
+
+### קהילה
+https://-8de1f2bc.zappy5.app/community
+חממת הגיימרים של ברואל סטארס מחכה לכם: דיונים, טיפים, מציאות חמות ושיתופי פעולה בלעדיים. בואו להיות חלק מקהילת השחקנים התוססת ביותר ולקחת את המשחק קדימה!
+
+### צור קשר
+https://-8de1f2bc.zappy5.app/contact
+צריכים עזרה במציאת הסקין המושלם? רוצים לשאול על עסקה? צוות המומחים שלנו זמין לכל שאלה, בקשה או רעיון. השאירו פרטים ונדאג לכם במהירות שיא!
+
+### Products
+https://-8de1f2bc.zappy5.app/products
+המוצרים שלנו - מכירת משתמשים בברואל סטארס
+
+### Cart
+https://-8de1f2bc.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-8de1f2bc.zappy5.app/checkout
+תשלום
+
+### Login
+https://-8de1f2bc.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-8de1f2bc.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-8de1f2bc.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-8de1f2bc.zappy5.app/product/:slug
+פרטי המוצר - מכירת משתמשים בברואל סטארס
+
+### Category
+https://-8de1f2bc.zappy5.app/category/:slug
+מוצרים - מכירת משתמשים בברואל סטארס
+
+### תודה רבה | ההודעה התקבלה
+https://-8de1f2bc.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה שלך התקבלה בהצלחה אצל הצוות שלנו, המוביל בתחום gaming e commerce וקניית אקאונט ברואל סטארס. נחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8de1f2bc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8de1f2bc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8de1f2bc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכירת משתמשים בברואל סטארס
+An online store dedicated to Brawl Stars — the popular mobile battle game by Supercell. The platform focuses on buying and selling in-game related items, accounts, or merchandise, and includes a user-to-user marketplace where players can list and purchase items from each other. The brand likely appeals to a young, gaming-savvy audience who are passionate about Brawl Stars characters, skins, and game content.
+
+## Target Audience
+- שחקני Brawl Stars, גיימרים
+- שחקני Brawl Stars
+- משפיעני גיימינג
+- שחקנים תחרותיים של Brawl Stars
+
+## Industry
+Gaming E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-8de1f2bc.zappy5.app/sitemap.xml
+- Robots: https://-8de1f2bc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-8de1f2bc.zappy5.app/llms-full.txt
+- Products (JSON): https://-8de1f2bc.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-8de1f2bc.zappy5.app/product-feed.xml
