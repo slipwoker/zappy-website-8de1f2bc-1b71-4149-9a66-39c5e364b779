@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-8de1f2bc.zappy5.app
+https://example.com
 קנו ומכרו אקאונטים, סקינים ופריטים נדירים בברואל סטארס בזירה המהירה והבטוחה בישראל. הצטרפו לשוק המשתמשים החכם ותתחילו לסחור כמו מקצוענים עוד היום!
 
 ### אמון ותהליך
-https://-8de1f2bc.zappy5.app/trust-process
+https://example.com/trust-process
 גלו איך אנחנו הופכים כל עסקה לבטוחה ושקופה: תהליך אימות קפדני, הגנה על הקונים והמוכרים, וצעדים פשוטים לסחר חכם. התחילו לסחור בביטחון מלא עכשיו!
 
 ### קהילה
-https://-8de1f2bc.zappy5.app/community
+https://example.com/community
 חממת הגיימרים של ברואל סטארס מחכה לכם: דיונים, טיפים, מציאות חמות ושיתופי פעולה בלעדיים. בואו להיות חלק מקהילת השחקנים התוססת ביותר ולקחת את המשחק קדימה!
 
 ### צור קשר
-https://-8de1f2bc.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה במציאת הסקין המושלם? רוצים לשאול על עסקה? צוות המומחים שלנו זמין לכל שאלה, בקשה או רעיון. השאירו פרטים ונדאג לכם במהירות שיא!
 
 ### Products
-https://-8de1f2bc.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מכירת משתמשים בברואל סטארס
 
 ### Cart
-https://-8de1f2bc.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-8de1f2bc.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-8de1f2bc.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-8de1f2bc.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-8de1f2bc.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-8de1f2bc.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מכירת משתמשים בברואל סטארס
 
 ### Category
-https://-8de1f2bc.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מכירת משתמשים בברואל סטארס
 
 ### תודה רבה | ההודעה התקבלה
-https://-8de1f2bc.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. ההודעה שלך התקבלה בהצלחה אצל הצוות שלנו, המוביל בתחום gaming e commerce וקניית אקאונט ברואל סטארס. נחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-8de1f2bc.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-8de1f2bc.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-8de1f2bc.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Gaming E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-8de1f2bc.zappy5.app/sitemap.xml
-- Robots: https://-8de1f2bc.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-8de1f2bc.zappy5.app/llms-full.txt
-- Products (JSON): https://-8de1f2bc.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-8de1f2bc.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
